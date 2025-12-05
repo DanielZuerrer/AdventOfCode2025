@@ -1,0 +1,69 @@
+{
+  "$schema": "http://json.schemastore.org/launchsettings.json",
+  "profiles": {
+    "1A": {
+      "commandName": "Project",
+      "commandLineArgs": "1A"
+    },
+    "1B": {
+      "commandName": "Project",
+      "commandLineArgs": "1B"
+    },
+    "2A": {
+      "commandName": "Project",
+      "commandLineArgs": "2A"
+    },
+    "2B": {
+      "commandName": "Project",
+      "commandLineArgs": "2B"
+    },
+    "3A": {
+      "commandName": "Project",
+      "commandLineArgs": "3A"
+    },
+    "3B": {
+      "commandName": "Project",
+      "commandLineArgs": "3B"
+    },
+    "4A": {
+      "commandName": "Project",
+      "commandLineArgs": "4A"
+    },
+    "4B": {
+      "commandName": "Project",
+      "commandLineArgs": "4B"
+    },
+    "5A": {
+      "commandName": "Project",
+      "commandLineArgs": "5A"
+    },
+    "5B": {
+      "commandName": "Project",
+      "commandLineArgs": "5B"
+    },
+    "6A": {
+      "commandName": "Project",
+      "commandLineArgs": "6A"
+    },
+    "6B": {
+      "commandName": "Project",
+      "commandLineArgs": "6B"
+    },
+    "7A": {
+      "commandName": "Project",
+      "commandLineArgs": "7A"
+    },
+    "7B": {
+      "commandName": "Project",
+      "commandLineArgs": "7B"
+    },
+    "8A": {
+      "commandName": "Project",
+      "commandLineArgs": "8A"
+    },
+    "8B": {
+      "commandName": "Project",
+      "commandLineArgs": "8B"
+    }
+  }
+}
