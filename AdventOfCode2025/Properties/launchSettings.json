@@ -64,6 +64,38 @@
     "8B": {
       "commandName": "Project",
       "commandLineArgs": "8B"
+    },
+    "9A": {
+      "commandName": "Project",
+      "commandLineArgs": "9A"
+    },
+    "9B": {
+      "commandName": "Project",
+      "commandLineArgs": "9B"
+    },
+    "10A": {
+      "commandName": "Project",
+      "commandLineArgs": "10A"
+    },
+    "10B": {
+      "commandName": "Project",
+      "commandLineArgs": "10B"
+    },
+    "11A": {
+      "commandName": "Project",
+      "commandLineArgs": "11A"
+    },
+    "11B": {
+      "commandName": "Project",
+      "commandLineArgs": "11B"
+    },
+    "12A": {
+      "commandName": "Project",
+      "commandLineArgs": "12A"
+    },
+    "12B": {
+      "commandName": "Project",
+      "commandLineArgs": "12B"
     }
   }
 }

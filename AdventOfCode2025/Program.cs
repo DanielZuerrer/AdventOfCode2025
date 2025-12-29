@@ -20,6 +20,14 @@ var result = args[0] switch
     "7B" => Day7.B(),
     "8A" => Day8.A(),
     "8B" => Day8.B(),
+    "9A" => Day9.A(),
+    "9B" => Day9.B(),
+    "10A" => Day10.A(),
+    "10B" => Day10.B(),
+    "11A" => Day11.A(),
+    "11B" => Day11.B(),
+    "12A" => Day12.A(),
+    "12B" => Day12.B(),
     _ => throw new ArgumentOutOfRangeException(),
 };
 
